@@ -55,6 +55,10 @@ In addition to these visuals, I created a line chart to analyze the trend of tip
 
 #OUTPUT-
 
+<img width="1314" height="738" alt="Image" src="https://github.com/user-attachments/assets/cbae9581-4a11-4e11-a3d1-42dfcdc70192" />
+
+___________________________________________________________________________________________________________________________________________________________________
+
 
 
 
