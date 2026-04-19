@@ -70,6 +70,10 @@ In the final stage, I analyzed the results and derived meaningful insights from 
 
 #OUTPUT-
 
+<img width="195" height="159" alt="Image" src="https://github.com/user-attachments/assets/608c4c8f-6a13-456a-bec0-6511ffd7af0f" />
+
+<img width="747" height="616" alt="Image" src="https://github.com/user-attachments/assets/976e8302-3b83-4182-b8a9-e622001b7000" />
+
 
 
 
