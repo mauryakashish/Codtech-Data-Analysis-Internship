@@ -29,6 +29,7 @@ Moving forward, I performed grouping and aggregation operations to extract meani
 
 ___________________________________________________________________________________________________________________________________________________________________
 2) **TASK2- PREDICTIVE ANALYSIS USING MACHINE LEARNING:**
+
 ##DESCRIPTION OF THE TASK-
 
 In this task, I carried out predictive analysis using machine learning techniques with the help of PySpark in a Google Colab environment. The main objective was to build a regression model capable of predicting the tip amount based on the total bill using a real-world dataset. To start with, I set up the working environment by installing PySpark and initializing a Spark session, which is essential for performing distributed data processing. The dataset used for this task was the well-known “tips” dataset, which includes information such as total bill, tip amount, gender, smoking status, day, time, and group size. While working with PySpark, I learned that it does not directly support loading datasets from online URLs. To overcome this limitation, I first used the Pandas library to download and read the dataset, then saved it locally as a CSV file. Afterward, I loaded this file into a PySpark DataFrame with schema inference enabled, allowing PySpark to automatically identify the appropriate data types for each column. This step ensured that the dataset was ready for further processing and analysis.
@@ -42,6 +43,9 @@ In the final stage, I evaluated the performance of the trained model by generati
 <img width="345" height="528" alt="Image" src="https://github.com/user-attachments/assets/74e4da03-b30a-494e-94dc-5e913dc4b0b4" />
 
 ___________________________________________________________________________________________________________________________________________________________________
+3) **TASK3- DASHBOARD DEVELOPMENT:**
+
+##DESCRIPTION OF THE TASK-
 
 
 
