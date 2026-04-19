@@ -27,7 +27,9 @@ Moving forward, I performed grouping and aggregation operations to extract meani
 
 <img width="583" height="508" alt="Image" src="https://github.com/user-attachments/assets/5008a8bc-bc23-4600-8431-cc169a1e1c29" />
 
-
+___________________________________________________________________________________________________________________________________________________________________
+2) **TASK2- PREDICTIVE ANALYSIS USING MACHINE LEARNING:**
+##DESCRIPTION OF THE TASK-
 
 
 
