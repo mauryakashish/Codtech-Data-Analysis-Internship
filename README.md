@@ -47,6 +47,16 @@ ________________________________________________________________________________
 
 ##DESCRIPTION OF THE TASK-
 
+In this task, I designed and developed an interactive dashboard using Microsoft Power BI to effectively visualize and analyze a dataset. The main objective of this task was to convert raw data into meaningful visual insights that can support better understanding and decision-making. The dataset used for this project was the widely used “tips” dataset, which includes details about restaurant transactions such as total bill amount, tip, gender, smoking status, day, time, and group size. To begin the process, I imported the dataset into Power BI using the “Get Data” option and selected the CSV file format. Once the dataset was loaded, I carefully explored the data fields to understand the structure and ensured that each column had the correct data type assigned, such as numerical or categorical. This step was important because accurate data types are necessary for proper visualization and analysis in Power BI.
+
+After preparing the dataset, I moved on to creating different visualizations that would present the data in an interactive and easy-to-understand manner. The first visualization I created was a bar chart that showed the average total bill amount for each day of the week. This visualization helped in identifying spending patterns among customers. From the chart, it was clear that weekends, particularly Saturday and Sunday, had higher average total bill values compared to weekdays. This suggests that customer activity and spending are generally higher during weekends, which can be valuable information for business planning. The second visualization I developed was a pie chart representing the distribution of customers based on gender. This chart showed that male customers made up a larger portion of the dataset compared to female customers, offering insights into the demographic composition of the restaurant’s customers.
+
+In addition to these visuals, I created a line chart to analyze the trend of tip amounts across different days of the week. This chart allowed me to observe how tipping behavior changes over time and across different days. The analysis indicated that tip amounts were generally higher on weekends, which aligns with the earlier observation of increased total bill amounts during those days. This suggests a positive relationship between how much customers spend and how much they tip. Finally, I organized all the visual elements into a clean and structured dashboard layout and added an appropriate title to make the dashboard look professional and user-friendly. The final dashboard provides valuable insights such as peak business days, customer demographics, and tipping behavior trends. Overall, this task highlighted the importance of data visualization in simplifying complex data and demonstrated how Power BI can be used as an effective tool to create interactive dashboards that deliver clear and actionable insights.
+
+#OUTPUT-
+
+
+
 
 
 
