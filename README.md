@@ -39,6 +39,10 @@ In the final stage, I evaluated the performance of the trained model by generati
 
 #OUTPUT-
 
+<img width="345" height="528" alt="Image" src="https://github.com/user-attachments/assets/74e4da03-b30a-494e-94dc-5e913dc4b0b4" />
+
+___________________________________________________________________________________________________________________________________________________________________
+
 
 
 
