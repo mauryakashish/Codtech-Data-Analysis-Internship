@@ -3,9 +3,9 @@ All 4 internship tasks submission
 
 *COMPANY*: CODTECH IT SOLUTION
 
-*NAME*: ASMIT ARVIND SHAH
+*NAME*: KASHISH DHYANCHANDRA MAURYA
 
-*INTERN ID*: CTIS7975
+*INTERN ID*: CTIS8000
 
 *DOMAIN*: DATA ANALYTICS
 
@@ -23,6 +23,7 @@ Once the dataset was successfully loaded into a PySpark DataFrame, I began by ex
 
 Moving forward, I performed grouping and aggregation operations to extract meaningful insights from the dataset. I grouped the data based on gender to examine differences in spending patterns and also grouped it by the day of the week to analyze how customer behavior changes over time. From the analysis, I observed that weekends, particularly Saturday and Sunday, showed higher average total bills compared to weekdays, indicating increased customer activity during those days. I also analyzed tipping patterns across different days to understand customer behavior more deeply. These insights can be very useful for businesses, especially in decision-making processes such as staffing, promotions, and resource allocation. Overall, this task provided me with valuable practical exposure to big data analysis using PySpark and enhanced my ability to efficiently handle and analyze datasets while deriving meaningful conclusions.
 
+#OUTPUT-
 
 
 
